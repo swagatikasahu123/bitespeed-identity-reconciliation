@@ -1,4 +1,5 @@
-import { pool } from '../db';
+import pool from '../db';
+
 
 // Define the Contact type
 export type Contact = {
